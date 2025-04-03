@@ -1,5 +1,5 @@
 #include <iostream>
- #include "calculator.h"
+ #include "calc.h"
  using namespace std;
  
  int main() {
